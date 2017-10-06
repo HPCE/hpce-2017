@@ -21,17 +21,21 @@ Links will be made available according to that timeline.
 
 - [Coursework 2](https://github.com/HPCE/hpce-2017-cw2).
 
-- Coursework 3 (pending OpenCL 1.2 fiddling).
+- Coursework 3 (Pending OpenCL 1.2 fiddling. Should be up by Oct 13th ).
 
-- Coursework 4.
+- Coursework 4 (Pending AWS fiddling. Should be up by Oct 20th).
 
-- Coursework 5.
+- Coursework 5. Will be released on actual issue date.
 
-- Coursework 6.
+- Coursework 6. Will be released on actual issue date.
 
 Lecture notes
 -------------
 
-The Panopto recordings are available to anyone who can access the panopto imperial site.
+The [Panopto recordings](https://imperial.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=2cdaa85b-941b-4e13-a84a-f389d0b681e1) are available to anyone who can access the panopto imperial site.
 
 - [Lecture 0 : introduction](slides/hpce-lec0-introduction.pdf)
+
+  - [Initial lecture recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7cd4f204-fb13-4398-97ed-f2996e746804)
+
+  - [TBB Demo](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8e5be91f-67b7-4d60-a0f2-b3ffa487d754)
