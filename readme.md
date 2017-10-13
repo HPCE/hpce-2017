@@ -21,7 +21,7 @@ Links will be made available according to that timeline.
 
 - [Coursework 2](https://github.com/HPCE/hpce-2017-cw2).
 
-- Coursework 3 (Pending OpenCL 1.2 fiddling. Should be up by Oct 13th ).
+- Coursework 3 (Pending OpenCL 1.2 fiddling. Should be up ~Oct 13th ).
 
 - Coursework 4 (Pending AWS fiddling. Should be up by Oct 20th).
 
@@ -39,3 +39,9 @@ The [Panopto recordings](https://imperial.cloud.panopto.eu/Panopto/Pages/Session
   - [Initial lecture recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7cd4f204-fb13-4398-97ed-f2996e746804)
 
   - [TBB Demo](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8e5be91f-67b7-4d60-a0f2-b3ffa487d754)
+
+- [Lecture 1 : introduction](slides/hpce-lec1-parfor-plus-tbb.pdf)
+
+  - [Part A recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa54db88-26b9-4f46-93f6-e5b7a712bf2e)
+
+  - [Part B recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cf633f28-063f-4322-a742-dee82d135ad1)
