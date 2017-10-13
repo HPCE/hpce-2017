@@ -40,7 +40,7 @@ The [Panopto recordings](https://imperial.cloud.panopto.eu/Panopto/Pages/Session
 
   - [TBB Demo](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8e5be91f-67b7-4d60-a0f2-b3ffa487d754)
 
-- [Lecture 1 : introduction](slides/hpce-lec1-parfor-plus-tbb.pdf)
+- [Lecture 1 : iterations spaces, parfor, and TBB](slides/hpce-lec1-parfor-plus-tbb.pdf)
 
   - [Part A recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa54db88-26b9-4f46-93f6-e5b7a712bf2e)
 
