@@ -21,7 +21,7 @@ Links will be made available according to that timeline.
 
 - [Coursework 2](https://github.com/HPCE/hpce-2017-cw2).
 
-- Coursework 3 (Pending OpenCL 1.2 fiddling. Should be up ~Oct 13th ).
+- [Coursework 3](https://github.com/HPCE/hpce-2017-cw3).
 
 - Coursework 4 (Pending AWS fiddling. Should be up by Oct 20th).
 
