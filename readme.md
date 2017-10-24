@@ -23,7 +23,7 @@ Links will be made available according to that timeline.
 
 - [Coursework 3](https://github.com/HPCE/hpce-2017-cw3).
 
-- Coursework 4 (Pending AWS fiddling. Should be up by Oct 20th).
+- [Coursework 4](https://github.com/HPCE/hpce-2017-cw4).
 
 - Coursework 5. Will be released on actual issue date.
 
