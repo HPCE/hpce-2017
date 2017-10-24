@@ -47,3 +47,7 @@ The [Panopto recordings](https://imperial.cloud.panopto.eu/Panopto/Pages/Session
   - [Part B recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cf633f28-063f-4322-a742-dee82d135ad1)
 
 - [Lecture 2 : TBB patterns + OpenCL Intro](slides/hpce-lec2-tbb-to-opencl.pdf)
+
+  - [Part A recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e405c9ad-7c16-4751-a1e8-5d816209ba7b)
+
+  - [Part B recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=554152c5-4f32-41b6-926b-1b381f88f187)
