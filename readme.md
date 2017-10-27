@@ -29,6 +29,12 @@ Links will be made available according to that timeline.
 
 - Coursework 6. Will be released on actual issue date.
 
+Group formation
+---------------
+
+Please register your groups for CW5 on the spreadsheet given
+in blackboard (not in the slides to avoid making it public).
+
 Lecture notes
 -------------
 
@@ -51,3 +57,5 @@ The [Panopto recordings](https://imperial.cloud.panopto.eu/Panopto/Pages/Session
   - [Part A recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e405c9ad-7c16-4751-a1e8-5d816209ba7b)
 
   - [Part B recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=554152c5-4f32-41b6-926b-1b381f88f187)
+
+- [Lecture 3 : Pipelining and Performance](slides/hpce-lec3-pipelines-and-performance.pdf)
