@@ -59,3 +59,9 @@ The [Panopto recordings](https://imperial.cloud.panopto.eu/Panopto/Pages/Session
   - [Part B recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=554152c5-4f32-41b6-926b-1b381f88f187)
 
 - [Lecture 3 : Pipelining and Performance](slides/hpce-lec3-pipelines-and-performance.pdf)
+
+  - [Part A recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9dc77bf6-266e-410f-a59d-0f5d5d6e8517)
+
+  - [Part B recording](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=116974c5-f174-4c5e-ab86-6887aa9fb792)
+
+- [Lecture 4 : Modelling and Critical Work](slides/hpce-lec4-modelling-and-critical-work.pdf)
