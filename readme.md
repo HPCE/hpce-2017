@@ -25,7 +25,7 @@ Links will be made available according to that timeline.
 
 - [Coursework 4](https://github.com/HPCE/hpce-2017-cw4).
 
-- Coursework 5. Will be released on actual issue date.
+- [Coursework 5](https://github.com/HPCE/hpce-2017-cw5).
 
 - Coursework 6. Will be released on actual issue date.
 
